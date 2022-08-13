@@ -1,0 +1,11 @@
+function oddEven(nilai){
+    if (nilai % 2 == 0) {
+        console.log("Bilangan Genap");
+    }
+    else {
+        console.log("Bilangan Ganjil");
+    }
+    return nilai;
+}
+
+oddEven(82);
