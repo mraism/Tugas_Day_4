@@ -11,4 +11,4 @@ function grade(nilai) {
         console.log('E')
     return nilai;
 }
-grade(93)
+grade(93), grade(76)
